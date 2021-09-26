@@ -1,0 +1,17 @@
+..\..\output\bule_tooth.o: ..\..\User\bule_tooth.c
+..\..\output\bule_tooth.o: ..\..\User\bule_tooth.h
+..\..\output\bule_tooth.o: ..\..\Libraries\CMSIS\stm32f10x.h
+..\..\output\bule_tooth.o: ..\..\Libraries\CMSIS\core_cm3.h
+..\..\output\bule_tooth.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\output\bule_tooth.o: ..\..\Libraries\CMSIS\system_stm32f10x.h
+..\..\output\bule_tooth.o: ..\..\User\stm32f10x_conf.h
+..\..\output\bule_tooth.o: ..\..\Libraries\FWlib\inc\stm32f10x_exti.h
+..\..\output\bule_tooth.o: ..\..\Libraries\CMSIS\stm32f10x.h
+..\..\output\bule_tooth.o: ..\..\Libraries\FWlib\inc\stm32f10x_gpio.h
+..\..\output\bule_tooth.o: ..\..\Libraries\FWlib\inc\stm32f10x_rcc.h
+..\..\output\bule_tooth.o: ..\..\Libraries\FWlib\inc\stm32f10x_tim.h
+..\..\output\bule_tooth.o: ..\..\Libraries\FWlib\inc\stm32f10x_usart.h
+..\..\output\bule_tooth.o: ..\..\Libraries\FWlib\inc\misc.h
+..\..\output\bule_tooth.o: ..\..\User\control.h
+..\..\output\bule_tooth.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+..\..\output\bule_tooth.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
